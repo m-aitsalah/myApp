@@ -1,21 +1,35 @@
 {
-
-   "myPannel":"http://anime.movietvapp.com/api/", 
-   
-   "bannerAds":"ca-app-pub-3940256099942544/6300978111", 
-
-   "interAds": "ca-app-pub-3940256099942544/1033173712",
-
-   "nativeAds": "ca-app-pub-3940256099942544/2247696110",
-
-   "OpebAds": "ca-app-pub-3940256099942544/3419835294",
-
-   "PubId": "pub-3940256099942544",
-
-   "FBinterAds": "343326397020021_413219973363996",
-
-   "FBbanerAds": "343326397020021_413220833363910",
-
-   "FBnativeAds": "343326397020021_413220833363910"
-
-}
+    "config" : {
+      "admob_appid" : "ca-app-pub-3940256099942544/3419835294",
+      "admob_bn" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_n" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_pub" : "pub-3940256099942544",
+      "admob_r" : "ca-app-pub-3940256099942544/5224354917",
+      "admobe_it" : "ca-app-pub-3940256099942544/1033173712",
+      "ads" : [  "admob", "fb", "admob" ],
+        "banned" : 0,
+        "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
+      ,
+      "banner_ads" : ["unity", "fb", "admob", "unity" ],
+      "delay_native_banner" : 15000,
+      "developer" : "tikchbilaachmikira",
+      "email" : "marioschreiner2021@gmail.com",
+      "fb_banner" : "IMG_16_9_APP_INSTALL#",
+      "fb_inter_id" : "IMG_16_9_APP_INSTALL#",
+      "fb_native" : "IMG_16_9_APP_INSTALL#",
+      "flipper_image" : [ "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg", "https://i.redd.it/xx7jl1ao0fsz.png", "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM" ],
+      "instagram" : "https://www.instagram.com/android_pubg/",
+      "myownads" : [ "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg", "https://wallpaperaccess.com/full/188406.jpg", "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg" ],
+      "native_ads" : [ "admob", "admob" ],
+      "package" : "com.spin_skin2021.wiyha2021",
+      "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
+      "store" : 0,
+      "test" : "true",
+      "unity_app_id" : "XXXXXXX",
+      "you" : 0,
+      "backend": "http://radio.movietvapp.com/",
+      "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
+    }
+  }
+  
+  
