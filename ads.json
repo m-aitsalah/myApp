@@ -6,11 +6,11 @@
       "admob_pub" : "xxxxxxxxxxxxxxxxxx",
       "admob_r" : "xxxxxxxxxxxxxxxxxx",
       "admobe_it" : "xxxxxxxxxxxxxxxxxx/ ",
-      "ads" : [  "admob", "fb", "admob" ],
+      "ads" : [  "fb", "fb", "admob" ],
         "banned" : 0,
         "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
       ,
-      "banner_ads" : ["unity", "fb", "admob", "unity" ],
+      "banner_ads" : ["fb", "fb", "admob", "unity" ],
       "delay_native_banner" : 15000,
       "developer" : "tikchbilaachmikira",
       "email" : "marioschreiner2021@gmail.com",
