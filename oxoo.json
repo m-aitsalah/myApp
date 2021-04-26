@@ -20,12 +20,12 @@
 
                 "startapp_id":"XXXXXXXXXXX",
 
-                "admob_app_id":"ca-app-pub-3940256099942544~77850731344",
-                "developerId":"3940256099942544",
-                "admob_banner":"ca-app-pub-3940256099942544/6300978111",
-                "admobnative":"ca-app-pub-3940256099942544/2247696110",
-                "admobinter":"ca-app-pub-3940256099942544/1033173712",
-                "admobreward":"XXXXXXXXXXX/XXXXXXXXXXX"
+                "admob_app_id":"xxxxxxxxxx_xxxxxxxxxxxx",
+                "developerId":"xxxxxxxxxx",
+                "admob_banner":"xxxxxxxxxx_xxxxxxxxxxxx",
+                "admobnative":"xxxxxxxxxx_xxxxxxxxxxxx",
+                "admobinter":"xxxxxxxxxx_xxxxxxxxxxxx",
+                "admobreward":"xxxxxxxxxx_xxxxxxxxxxxx"
                 
                
         }
