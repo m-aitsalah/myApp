@@ -1,0 +1,34 @@
+{
+    "data": 
+        {
+                "Package_name": "com.test.test",
+                
+                "term_url": "https://mxradio.online/khawya/terms/",
+                "server_url": "https://mxradio.online/khawya/rest-api/",
+                "api_key": "i2ie6c1bj06y8rykukifnktj",
+                "envato_code" : "",
+                
+                "FBrewardsAds": "XXXXXXXXXXXXXXX",
+                "facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                "fbinter":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                "fbnative":"",
+                
+                "unityGameID":"4082601", 
+                "unityrewardId":"rewardedVideo",
+                "unitybanner":"bannerOxoo",
+                "unityinter":"interOxoo",
+
+                "startapp_id":"XXXXXXXXXXX",
+
+                "admob_app_id":"ca-app-pub-3940256099942544~77850731344",
+                "developerId":"3940256099942544",
+                "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+                "admobnative":"ca-app-pub-3940256099942544/2247696110",
+                "admobinter":"ca-app-pub-3940256099942544/1033173712",
+                "admobreward":"ca-app-pub-3940256099942544/5224354917"
+                
+               
+        }
+       
+ 
+}
