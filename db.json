@@ -16,11 +16,11 @@
                 "unityinter":"interOxoo",
 
 
-                "admob_app_id":"ca-app-pub-3940256099942544~77850731344",
-                "admob_banner":"ca-app-pub-3940256099942544/6300978111",
-                "admobnative":"ca-app-pub-3940256099942544/2247696110",
-                "admobinter":"ca-app-pub-3940256099942544/1033173712",
-                "admobreward":"ca-app-pub-3940256099942544/5224354917"
+                "admob_app_id":"ca-app-pub-xxxxxxxx~77850731344",
+                "admob_banner":"ca-app-pub-xxxxxxxx/6300978111",
+                "admobnative":"ca-app-pub-xxxxxxxxxxxxxxxx/2247696110",
+                "admobinter":"ca-app-pub-xxxxxxxx/1033173712",
+                "admobreward":"ca-app-pub-xxxxxxxx/5224354917"
                 
                
         }
