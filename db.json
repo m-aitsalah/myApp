@@ -1,27 +1,22 @@
 {
     "data": 
         {
-                "Package_name": "com.test.test",
+              
+                "server_url": "https://mxradio.online/livetv/speed_api.php",
+              
                 
-                "term_url": "https://mxra-lhoucine/terms/",
-                "server_url": "https://mxr-lhoucine/rest-api/",
-                "api_key": "spagreen",
-                "envato_code" : "",                
-            
-                "FBrewardsAds": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-                "facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-                "fbinter":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-                "fbnative":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                "FBrewardsAds": "IMG_16_9_APP_INSTALL#300467668365095_300468221698373",
+                "facebook_banner":"IMG_16_9_APP_INSTALL#300467668365095_300696365008892",
+                "fbinter":"IMG_16_9_APP_INSTALL#300467668365095_306578271087368",
+                "fbnative":"IMG_16_9_APP_INSTALL#300467668365095_300468221698373",
                 
-                "unityGameID":"4082601", 
+                "unityGameID":"4082603", 
                 "unityrewardId":"rewardedVideo",
                 "unitybanner":"bannerOxoo",
                 "unityinter":"interOxoo",
 
-                "startapp_id":"XXXXXXXXXXX",
 
-                "admob_app_id":"ca-app-pub-3940256099942544~6300978111",
-                "developerId":"pub-3940256099942544",
+                "admob_app_id":"ca-app-pub-3940256099942544~77850731344",
                 "admob_banner":"ca-app-pub-3940256099942544/6300978111",
                 "admobnative":"ca-app-pub-3940256099942544/2247696110",
                 "admobinter":"ca-app-pub-3940256099942544/1033173712",
