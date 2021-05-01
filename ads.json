@@ -1,34 +1,29 @@
 {
-  "config" : {
-    //nadii rah tbdel
-    "admob_appid" : "ca-app-pub-xxxxxxxx~xxxxxxxxxx",
-    "admob_bn" : "ca-app-pub-xxxxxxxx~xxxxxxxxxx",
-    "admob_n" : "ca-app-pub-xxxxxxxx~xxxxxxxxxx",
-    "admob_pub" : "pub-xxxxxxxxxxxxx",
-    "admob_r" : "ca-app-pub-xxxxxxxx~xxxxxxxxxx",
-    "admobe_it" : "	ca-app-pub-xxxxxxxx~xxxxxxxxxx",
-    "ads" : [  "admob", "fb", "admob" ],
-      "banned" : 0,
-      "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
-    ,
-    "banner_ads" : ["admob", "fb", "admob", "fb" ],
-    "delay_native_banner" : 15000,
-    "developer" : "tikchbilaachmikira",
-    "email" : "marioschreiner2021@gmail.com",
-    "fb_banner" : "xxxxxxxxx-xxxxxxxxxx",
-    "fb_inter_id" : "xxxxxxxxx-xxxxxxxxxx",
-    "fb_native" : "xxxxxxxxx-xxxxxxxxxx",
-    "flipper_image" : [ "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg", "https://i.redd.it/xx7jl1ao0fsz.png", "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM" ],
-    "instagram" : "https://www.instagram.com/android_pubg/",
-    "myownads" : [ "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg", "https://wallpaperaccess.com/full/188406.jpg", "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg" ],
-    "native_ads" : [ "admob", "fb" ],
-    "package" : "com.spin_skin2021.wiyha2021",
-    "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
-    "store" : 0,
-    "test" : "false",
-    "unity_app_id" : "3845153",
-    "you" : 0,
-    "backend": "http://radio.movietvapp.com/",
-    "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
-  }
+    "data": 
+        {
+              
+                "server_url": "https://mxradio.online/livetv/speed_api.php",
+              
+                
+                "FBrewardsAds": "IMG_16_9_APP_INSTALL#300467668365095_300468221698373",
+                "facebook_banner":"IMG_16_9_APP_INSTALL#300467668365095_300696365008892",
+                "fbinter":"4300467668365095_306578271087368",
+                "fbnative":"",
+                
+                "unityGameID":"4082603", 
+                "unityrewardId":"rewardedVideo",
+                "unitybanner":"bannerOxoo",
+                "unityinter":"interOxoo",
+
+
+                "admob_app_id":"ca-app-pub-3940256099942544~77850731344",
+                "admob_banner":"ca-app-pub-xxxxxxxxxxx/xxxxxxxxxxx",
+                "admobnative":"ca-app-pub-xxxxxxxxxxx/xxxxxxxxxxx",
+                "admobinter":"ca-app-pub-3940256099942544/1033173712",
+                "admobreward":"ca-app-pub-xxxxxxxxxxx/xxxxxxxxxxx"
+                
+               
+        }
+       
+ 
 }
