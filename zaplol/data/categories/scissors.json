@@ -1,0 +1,72 @@
+[
+  {
+    "id": "scissors_001",
+    "name": "Scissors 1",
+    "categoryId": "scissors",
+    "categoryName": "Scissors",
+    "imagePath": "assets/images/categories/scissors.png",
+    "audioPath": "assets/audio/scissors/001_cutting-with-scissors-81288.mp3",
+    "durationSec": 7.026,
+    "sizeKB": 54.2,
+    "premium": false,
+    "enabled": true,
+    "order": 1,
+    "sourceFile": "cutting-with-scissors-81288.mp3"
+  },
+  {
+    "id": "scissors_002",
+    "name": "Scissors 2",
+    "categoryId": "scissors",
+    "categoryName": "Scissors",
+    "imagePath": "assets/images/categories/scissors.png",
+    "audioPath": "assets/audio/scissors/002_poultry-shears-99779.mp3",
+    "durationSec": 2.826,
+    "sizeKB": 25.49,
+    "premium": false,
+    "enabled": true,
+    "order": 2,
+    "sourceFile": "poultry-shears-99779.mp3"
+  },
+  {
+    "id": "scissors_003",
+    "name": "Scissors 3",
+    "categoryId": "scissors",
+    "categoryName": "Scissors",
+    "imagePath": "assets/images/categories/scissors.png",
+    "audioPath": "assets/audio/scissors/003_scissors-99335.mp3",
+    "durationSec": 2.634,
+    "sizeKB": 24.18,
+    "premium": false,
+    "enabled": true,
+    "order": 3,
+    "sourceFile": "scissors-99335.mp3"
+  },
+  {
+    "id": "scissors_004",
+    "name": "Scissors 4",
+    "categoryId": "scissors",
+    "categoryName": "Scissors",
+    "imagePath": "assets/images/categories/scissors.png",
+    "audioPath": "assets/audio/scissors/004_scissors-cut-paper-44754.mp3",
+    "durationSec": 7.146,
+    "sizeKB": 55.01,
+    "premium": false,
+    "enabled": true,
+    "order": 4,
+    "sourceFile": "scissors-cut-paper-44754.mp3"
+  },
+  {
+    "id": "scissors_005",
+    "name": "Scissors 5",
+    "categoryId": "scissors",
+    "categoryName": "Scissors",
+    "imagePath": "assets/images/categories/scissors.png",
+    "audioPath": "assets/audio/scissors/005_scissors-quick-cut-100455.mp3",
+    "durationSec": 2.274,
+    "sizeKB": 21.72,
+    "premium": false,
+    "enabled": true,
+    "order": 5,
+    "sourceFile": "scissors-quick-cut-100455.mp3"
+  }
+]

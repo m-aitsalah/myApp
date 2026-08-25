@@ -1,0 +1,32 @@
+{
+  "appName": "Zaplol Prank Sounds",
+  "schemaVersion": 1,
+  "contentMode": "remote-first",
+  "dataPaths": {
+    "categories": "data/categories.json",
+    "allSounds": "data/sounds_all.json",
+    "trending": "data/trending.json"
+  },
+  "update": {
+    "enabled": false,
+    "minimumVersion": "1.0.0",
+    "blockedVersions": [],
+    "title": "Update required",
+    "message": "Please update the app to continue.",
+    "buttonText": "Update now",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.zaplol.pranksounds",
+    "iosUrl": "https://apps.apple.com/app/id0000000000"
+  },
+  "maintenance": {
+    "enabled": false,
+    "title": "Maintenance",
+    "message": "We are improving the app. Please try again shortly."
+  },
+  "branding": {
+    "logoPath": "assets/images/branding/zaplol_logo.png",
+    "mascotPath": "assets/images/branding/zaplol_mascot.png",
+    "heroPath": "assets/images/branding/home_hero_airhorn.png",
+    "emptyFavoritesPath": "assets/images/states/empty_favorites.png",
+    "updateRequiredPath": "assets/images/states/update_required.png"
+  }
+}

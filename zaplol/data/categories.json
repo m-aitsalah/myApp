@@ -1,0 +1,212 @@
+[
+  {
+    "id": "air_horn",
+    "name": "Air Horn",
+    "subtitle": "Loud and funny horn pranks",
+    "imagePath": "assets/images/categories/air_horn.png",
+    "soundCount": 14,
+    "enabled": true,
+    "order": 1,
+    "soundsJsonPath": "data/categories/air_horn.json"
+  },
+  {
+    "id": "baby_cry",
+    "name": "Baby Cry",
+    "subtitle": "Crying baby prank sounds",
+    "imagePath": "assets/images/categories/baby_cry.png",
+    "soundCount": 8,
+    "enabled": true,
+    "order": 2,
+    "soundsJsonPath": "data/categories/baby_cry.json"
+  },
+  {
+    "id": "breaking",
+    "name": "Breaking",
+    "subtitle": "Glass break and crack effects",
+    "imagePath": "assets/images/categories/breaking.png",
+    "soundCount": 6,
+    "enabled": true,
+    "order": 3,
+    "soundsJsonPath": "data/categories/breaking.json"
+  },
+  {
+    "id": "burp",
+    "name": "Burp",
+    "subtitle": "Funny burp prank sounds",
+    "imagePath": "assets/images/categories/burp.png",
+    "soundCount": 15,
+    "enabled": true,
+    "order": 4,
+    "soundsJsonPath": "data/categories/burp.json"
+  },
+  {
+    "id": "car",
+    "name": "Car",
+    "subtitle": "Car horn and vehicle sounds",
+    "imagePath": "assets/images/categories/car.png",
+    "soundCount": 11,
+    "enabled": true,
+    "order": 5,
+    "soundsJsonPath": "data/categories/car.json"
+  },
+  {
+    "id": "dog",
+    "name": "Dog",
+    "subtitle": "Barking dog prank sounds",
+    "imagePath": "assets/images/categories/dog.png",
+    "soundCount": 7,
+    "enabled": true,
+    "order": 6,
+    "soundsJsonPath": "data/categories/dog.json"
+  },
+  {
+    "id": "door_bell",
+    "name": "Door Bell",
+    "subtitle": "Doorbell and ring sounds",
+    "imagePath": "assets/images/categories/door_bell.png",
+    "soundCount": 14,
+    "enabled": true,
+    "order": 7,
+    "soundsJsonPath": "data/categories/door_bell.json"
+  },
+  {
+    "id": "fart",
+    "name": "Fart",
+    "subtitle": "Classic fart prank sounds",
+    "imagePath": "assets/images/categories/fart.png",
+    "soundCount": 21,
+    "enabled": true,
+    "order": 8,
+    "soundsJsonPath": "data/categories/fart.json"
+  },
+  {
+    "id": "gun",
+    "name": "Gun",
+    "subtitle": "Cartoon gun-style prank sounds",
+    "imagePath": "assets/images/categories/gun.png",
+    "soundCount": 6,
+    "enabled": true,
+    "order": 9,
+    "soundsJsonPath": "data/categories/gun.json"
+  },
+  {
+    "id": "hair_clipper",
+    "name": "Hair Clipper",
+    "subtitle": "Hair clipper prank sounds",
+    "imagePath": "assets/images/categories/hair_clipper.png",
+    "soundCount": 13,
+    "enabled": true,
+    "order": 10,
+    "soundsJsonPath": "data/categories/hair_clipper.json"
+  },
+  {
+    "id": "hair_dryer",
+    "name": "Hair Dryer",
+    "subtitle": "Hair dryer prank sounds",
+    "imagePath": "assets/images/categories/hair_dryer.png",
+    "soundCount": 8,
+    "enabled": true,
+    "order": 11,
+    "soundsJsonPath": "data/categories/hair_dryer.json"
+  },
+  {
+    "id": "laughing",
+    "name": "Laughing",
+    "subtitle": "Laugh and giggle sounds",
+    "imagePath": "assets/images/categories/laughing.png",
+    "soundCount": 9,
+    "enabled": true,
+    "order": 12,
+    "soundsJsonPath": "data/categories/laughing.json"
+  },
+  {
+    "id": "men_cough",
+    "name": "Men Cough",
+    "subtitle": "Cough prank sounds",
+    "imagePath": "assets/images/categories/men_cough.png",
+    "soundCount": 11,
+    "enabled": true,
+    "order": 13,
+    "soundsJsonPath": "data/categories/men_cough.json"
+  },
+  {
+    "id": "mosquito",
+    "name": "Mosquito",
+    "subtitle": "Mosquito buzz sounds",
+    "imagePath": "assets/images/categories/mosquito.png",
+    "soundCount": 7,
+    "enabled": true,
+    "order": 14,
+    "soundsJsonPath": "data/categories/mosquito.json"
+  },
+  {
+    "id": "notification",
+    "name": "Notification",
+    "subtitle": "Notification alert sounds",
+    "imagePath": "assets/images/categories/notification.png",
+    "soundCount": 8,
+    "enabled": true,
+    "order": 15,
+    "soundsJsonPath": "data/categories/notification.json"
+  },
+  {
+    "id": "police_siren",
+    "name": "Police Siren",
+    "subtitle": "Police siren prank sounds",
+    "imagePath": "assets/images/categories/police_siren.png",
+    "soundCount": 14,
+    "enabled": true,
+    "order": 16,
+    "soundsJsonPath": "data/categories/police_siren.json"
+  },
+  {
+    "id": "scary",
+    "name": "Scary",
+    "subtitle": "Scary and spooky sounds",
+    "imagePath": "assets/images/categories/scary.png",
+    "soundCount": 17,
+    "enabled": true,
+    "order": 17,
+    "soundsJsonPath": "data/categories/scary.json"
+  },
+  {
+    "id": "scissors",
+    "name": "Scissors",
+    "subtitle": "Scissor cutting sounds",
+    "imagePath": "assets/images/categories/scissors.png",
+    "soundCount": 5,
+    "enabled": true,
+    "order": 18,
+    "soundsJsonPath": "data/categories/scissors.json"
+  },
+  {
+    "id": "sneeze",
+    "name": "Sneeze",
+    "subtitle": "Sneeze prank sounds",
+    "imagePath": "assets/images/categories/sneeze.png",
+    "soundCount": 6,
+    "enabled": true,
+    "order": 19,
+    "soundsJsonPath": "data/categories/sneeze.json"
+  },
+  {
+    "id": "snoring",
+    "name": "Snoring",
+    "subtitle": "Snoring prank sounds",
+    "imagePath": "assets/images/categories/snoring.png",
+    "soundCount": 9,
+    "enabled": true,
+    "order": 20,
+    "soundsJsonPath": "data/categories/snoring.json"
+  },
+  {
+    "id": "toilet_flush",
+    "name": "Toilet Flush",
+    "subtitle": "Toilet flush sounds",
+    "imagePath": "assets/images/categories/toilet_flush.png",
+    "soundCount": 6,
+    "enabled": true,
+    "order": 21,
+    "soundsJsonPath": "data/categories/toilet_flush.json"
+  }
+]
