@@ -1,0 +1,12 @@
+{
+  "packs": [
+    {
+      "id": "global",
+      "name": "Global",
+      "countryCode": "GLOBAL",
+      "jsonPath": "data/memes/global.json",
+      "enabled": true,
+      "order": 1
+    }
+  ]
+}
