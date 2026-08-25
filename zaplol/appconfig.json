@@ -1,1 +1,22 @@
-com.zaplol.prank.sounds
+{
+  "schemaVersion": 1,
+  "maintenance": {
+    "enabled": false,
+    "title": "Maintenance",
+    "message": "Please try again later."
+  },
+  "update": {
+    "enabled": false,
+    "minimumVersion": "1.0.0",
+    "blockedVersions": [],
+    "title": "Update required",
+    "message": "Please update to continue.",
+    "buttonText": "Update now",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.zaplol.pranksounds",
+    "iosUrl": "https://apps.apple.com/app/id0000000000"
+  },
+  "content": {
+    "categories": "data/categories.json",
+    "trending": "data/trending.json"
+  }
+}
