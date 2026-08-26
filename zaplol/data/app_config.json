@@ -8,7 +8,7 @@
     "trending": "data/trending.json"
   },
   "update": {
-    "enabled": false,
+    "enabled": true,
     "minimumVersion": "1.0.0",
     "blockedVersions": [],
     "title": "Update required",
